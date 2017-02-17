@@ -36,6 +36,7 @@ FEATURES
 3. The scatter plot for all the four datasets with the best line of fit is visualized.
 4. The bar graphs for the X and Y values from the dataset ANSCOMBE_I.csv is also included and when a user hovers the mouse on one of the bar for one graph the corresponding value bar will be highlighted. This would be vice versa.
 5. All the visualizations are themed as per the inspiration mentioned below.
+6. The visualizations are replicated in tableau and the screenshots are also added.
 
 
 TECHNOLOGY
